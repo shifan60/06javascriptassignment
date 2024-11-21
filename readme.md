@@ -2,7 +2,7 @@
            Assignment 6
 
 Qn. Write short notes on Array methods with code example ?
- 1.	Write short notes on Array methods with code example
+
 
 
 •   push() :- Adds one or more elements to the end of an array and returns the new length of the array.
